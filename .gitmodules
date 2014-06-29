@@ -1,19 +1,19 @@
 [submodule "vim/bundle/solarized"]
-  path=vim/bundle/vim-colors-solarized
-  url=git://github.com/altercation/vim-colors-solarized.git
+        path=vim/bundle/vim-colors-solarized
+        url=git://github.com/altercation/vim-colors-solarized.git
 [submodule "vim/bundle/surround"]
 	path = vim/bundle/surround
 	url = git@github.com:tpope/vim-surround.git
 [submodule "vim/bundle/vim-javascript"]
-  path = vim/bundle/vim-javascript
-  url = git://github.com/pangloss/vim-javascript.git
+        path = vim/bundle/vim-javascript
+        url = git://github.com/pangloss/vim-javascript.git
 [submodule "vim/bundle/nerdtree"]
-  path = vim/bundle/nerdtree
-  url = https://github.com/vim-scripts/The-NERD-tree.git
-  ignore = untracked
+        path = vim/bundle/nerdtree
+        url = https://github.com/vim-scripts/The-NERD-tree.git
+        ignore = untracked
 [submodule "vim/bundle/phpcomplete"]
-  path = vim/bundle/phpcomplete
-  url = https://github.com/shawncplus/phpcomplete.vim
+        path = vim/bundle/phpcomplete
+        url = https://github.com/shawncplus/phpcomplete.vim
 [submodule "vim/bundle/clojure-static"]
 	path = vim/bundle/clojure-static
 	url = git@github.com:guns/vim-clojure-static.git
@@ -68,3 +68,6 @@
 [submodule "vim/bundle/gocode"]
 	path = vim/bundle/gocode
 	url = git@github.com:Blackrush/vim-gocode.git
+[submodule "vim/bundle/fugitive"]
+        path=vim/bundle/fugitive
+        url=git://github.com/tpope/vim-fugitive.git
